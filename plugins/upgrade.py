@@ -24,7 +24,6 @@ Price Rs 179  ind /🌎 2.16$  per Month
 
 Payment Details :-
 <b>➜ UPI ID :</b> <code>deendayalsurajk@axl</code>
-#<b>➜ PayPal :</b> <a href='https://www.paypal.me/jishudeveloper'>Click Here</a>
 <b>➜ QR Code :</b> <a href='https://envs.sh/7K-.jpg'>Click Here</a>
 
 After Payment Send Screenshots Of Payment To Admin @Deendayal_Suraj"""
@@ -58,7 +57,6 @@ Price Rs 179  ind /🌎 2.16$  per Month
 
 Payment Details :-
 <b>➜ UPI ID :</b> <code>deendayalsurajk@axl</code>
-#<b>➜ PayPal :</b> <a href='https://www.paypal.me/jishudeveloper'>Click Here</a>
 <b>➜ QR Code :</b> <a href='https://envs.sh/7K-.jpg'>Click Here</a>
 
 After Payment Send Screenshots Of Payment To Admin @Deendayal_Suraj"""
